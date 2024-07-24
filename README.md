@@ -9,6 +9,7 @@ Auth pattern
 "ConnectionStrings": {
     "DefaultConnection": "Data Source=.;Initial Catalog=WebAppAuth;Integrated Security=True; TrustServerCertificate=True"
   }
+
 Update-Database
 
 
